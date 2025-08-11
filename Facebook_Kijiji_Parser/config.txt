@@ -1,0 +1,20 @@
+[filters]
+city_fb = calgary
+city_kijiji = calgary
+make = Honda
+model = civic
+year_min = 2000
+year_max = 2015
+price_min = 1000
+price_max = 7000
+facebook_days_filter = 7
+max_post_age_hours = 300
+
+[settings]
+interval = 30
+telegram_token = 0000000000
+telegram_chat_id = 0000000000
+
+[chrome]
+facebook_profile_name = Default
+kijiji_profile_name = Default

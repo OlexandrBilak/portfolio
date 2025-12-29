@@ -7,7 +7,7 @@ from db.scraper_database import db as db_s
 from scrapers import base
 from config import TOKEN
 
-USER_ID = 731681925
+USER_ID = "USER_ID"
 
 bot = Bot(token=TOKEN)
 

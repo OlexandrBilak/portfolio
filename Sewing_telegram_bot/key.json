@@ -1,13 +1,12 @@
 {
   "type": "service_account",
-  "project_id": "test-bot-487104",
-  "private_key_id": "ab670661f5b6e386d0be104c6df9778685a8e1db",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzRRSq9DSjpZtt\npBz+hKeveilZxgEb2HcK12Ld5h2lWfjffQgveU3crdUMbgrIir5xZ69j4GjW3dm6\nxy+OlQDqw+wQ4HShtZgZEnqb6jrmTAyAkhTKfvnkdgf11BcsxIZg7EdltGAoKJd2\nPi2as/lvD2q+HKS0QFek+hbP5yZfyGJrkg++wHZTP7y2m0N/QbJfCeORIHoma5T9\nY7k1iqWRRU17vRSad4PBsDba1kP+S+5PpW7LDN3Sip2FA+k22LArbr0SnK1VkfNz\nA01i4iA8KiQekypLIfbfOG6juuc0i0vmfahJH68aa6WWRq97PUhiN0NDkqCSVjyM\nEMhyx7YrAgMBAAECggEADRGAn7O8sJ9OdNAtYup1tOeRYx95jjeZ+frYlLeFOrwT\n1ert8VQE9ozfho/xDkx69JZr5TqDOgKjMCf8EgdPsU2GBHbwWad8xnsf4ATTtV0e\n3jKH/HkEK4DlNKj45YUQDLm8vK/JALRw0ihXN7td+BgmHmTFJvS3zumCRzahCANa\nztd5vXFutjsznpQQYF9Sz0m5ceadlQcKD03zgr6+iTZtDCUBhZzhOlwh9nto45tH\n/lx/CExuJDyWYNIeZm+h0wOJagV05rXC8z8IjhR+3K8/HzMuN3rpQpVxtKNAMepj\ntaYzVDD0+r2T10OTffzYwHJUkhG4vZhPAPZVX/e6uQKBgQDhl9jqndqu19bTJm97\nBJIK9K92/GLLAh1aEftXcopbOUMT86kMF9rPv8GC4sMoZ1kgZzAc22439cmXhnHr\nCPGcl6eCH4Jheq66PnEBnyk82/Fal3Ve3FxV+0TXcdaxUFoxu+inRRH3gNQhcqLk\nLLW0gjjrbo8oalzM+C7fN3K5swKBgQDLbtXO8TK34VUKXmGVmqpW3zgeGYwDILxX\ndjDnr4lKeuTtRuqoNmS3Q2uQfW0ws3kbyRXI2d3M6p6//b1pSrPczlqC218oFBSQ\n8xeSP7bNLqZ8LnHR09NVT0wR5ibupFCF16NWyJzwfwLJuinEvT5sBOiq0CYDx8mb\nPAoU1VrlqQKBgCFvMN3s0UlSges/agxQbBillQ/MbhPqV1FPEvIt7qWAghmF5kr9\nihd6MwLj+sqVLpdn07CjMN2oVt1XNrD/3Vc4/sGBTACIfzbpJDR6U1FKw6WKhwGt\nJR41JEnN/GTBJOz0DZIk4XnOJSJj7BJnMfLzzd3Ov/bcdK6IJeI9RIqTAoGBAKb0\n7bCLL47N9dcuonP/nXDyfcHmQYyHn0tAit56p/hiZ+N8YjVvfrURNgQ9jBF+GhT9\nsU1H0MrOez8iZgM19etvx8TBeZUQ9dgISf4TIFnAwY4FKBCHAlhvXgUKmEUewZ82\n3KzqtDKEaqtYh9MZZVONq84USj6sBv/KBJQYjiMRAoGBALoXpolYUMfjAfiVYf/r\nynNEA4kpHDTe4W81iEx8j7X7tp/9BVxy/IkSw6xbNYYtsh/WCD3B0wd5409WXwnG\nFGnj9FG5PLsrDf4/C9PVI9VP7g9dNYroi12DUsBzJvDdqbmThvgA8j2MlQCwGKsh\n6RaNSCLp+Zo6aeTYpvQzsUvr\n-----END PRIVATE KEY-----\n",
-  "client_email": "factory-bot@test-bot-487104.iam.gserviceaccount.com",
-  "client_id": "110521751530078635022",
+  "project_id": "###",
+  "private_key_id": "###",
+  "private_key": "-----BEGIN PRIVATE KEY###"
+  "client_id": "###",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/factory-bot%40test-bot-487104.iam.gserviceaccount.com",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/###",
   "universe_domain": "googleapis.com"
 }

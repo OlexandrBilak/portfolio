@@ -1,6 +1,6 @@
-BOT_TOKEN = "8528475248:AAG8V4pqHkjKAKv_7CWBHUj01r68wqm0pZs"
+BOT_TOKEN = "###"
 
-SHEET_NAME = "Factory_bot"
+SHEET_NAME = "###"
 
 TARIFF_SHEET = "Тарифи"
 LOG_SHEET = "Журнал"
